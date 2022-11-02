@@ -1,0 +1,70 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+
+.colorgeneral {
+    background-color: #28a745;
+}
+
+.tamano-logo{
+    width: 60px;
+    height: 15px;
+}
+
+.mboton {
+    margin-bottom: 10px;
+}
+.precio-card{
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+.preciorebajado-card{
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+}
+.titulo1-card {
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529
+}
+
+.mark-card {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070
+}
+
+.stitle-card{
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+.title-form {
+    font-size: 21px;
+    font-weight: 300;
+}
+.footer-form {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+.tamanogeneral {
+    width: 82%;
+    margin: auto;
+}
+.text-precios {
+    color: #ced4da;
+    opacity: 0.5;
+   
+  }
+.colorcaracteristicas{
+    color: #ced4da;
+    opacity: none;
+  }
+  .colordesc {
+    color: #ced4da;
+    opacity: 0.4;
+  }
